@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="23" started-at="2022-06-23T10:14:04Z" finished-at="2022-06-23T10:14:04Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="23" started-at="2022-06-23T10:14:04Z" finished-at="2022-06-23T10:14:04Z">
+      <class name="MAVENACADEMY.MAVENSTART.AppiumTest">
+        <test-method status="PASS" signature="IOSApps()[pri:0, instance:MAVENACADEMY.MAVENSTART.AppiumTest@1fe20588]" name="IOSApps" duration-ms="9" started-at="2022-06-23T15:44:04Z" finished-at="2022-06-23T15:44:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- IOSApps -->
+        <test-method status="PASS" signature="NativeAPpAndroid()[pri:0, instance:MAVENACADEMY.MAVENSTART.AppiumTest@1fe20588]" name="NativeAPpAndroid" duration-ms="0" started-at="2022-06-23T15:44:04Z" finished-at="2022-06-23T15:44:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NativeAPpAndroid -->
+      </class> <!-- MAVENACADEMY.MAVENSTART.AppiumTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
