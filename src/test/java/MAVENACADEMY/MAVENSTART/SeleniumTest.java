@@ -18,7 +18,11 @@ public class SeleniumTest {
 		System.out.println("elementsUi");	
 	}
 	
-	
+	@Test
+    public void SeleniumMethod()
+    {
+    	System.out.println("Code changes done by GIT_DEMO_in_develop_branch");
+    }
 }
 
 
